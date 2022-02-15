@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x26F4c8f2cB94826D4D5108A193A3Bd8dC881FAFB",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x26f4c8f2cb94826d4d5108a193a3bd8dc881fafb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Background - Vq5NjvIiaO",
+  "SYMBOL": "BKG",
+  "MAX_SUPPLY": 35,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/background-vq5njviiao",
+  "SHOW_BACKGROUND": true
+}
+
